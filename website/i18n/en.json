@@ -5,45 +5,29 @@
     "previous": "Previous",
     "tagline": "Payment processing for partners.",
     "docs": {
-      "a1-web-standalone": {
-        "title": "Web standalone",
-        "sidebar_label": "Web standalone"
-      },
-      "a2-web-integrated-formpost": {
-        "title": "Web integrated (form post)",
-        "sidebar_label": "Web integrated (form post)"
-      },
-      "a3-web-embedded": {
-        "title": "Web embedded (with code tabs)",
-        "sidebar_label": "Web embedded (with code tabs)"
-      },
-      "a4-pos-standalone": {
-        "title": "POS standalone (with table)",
-        "sidebar_label": "POS standalone (with table)"
-      },
-      "a5-pos-integrated": {
-        "title": "POS integrated (with svg diagram)",
-        "sidebar_label": "POS integrated (with svg diagram)"
-      },
-      "a6-sftp": {
-        "title": "SFTP",
-        "sidebar_label": "SFTP"
-      },
-      "a7-postback": {
-        "title": "Postback",
-        "sidebar_label": "Postback"
-      },
-      "a8-ivr": {
-        "title": "IVR",
-        "sidebar_label": "IVR"
-      },
-      "a9-phone": {
-        "title": "Phone payments",
-        "sidebar_label": "Phone payments"
-      },
       "contact": {
         "title": "Contact us",
         "sidebar_label": "Contact us"
+      },
+      "group1_doc1": {
+        "title": "Web standalone",
+        "sidebar_label": "Web standalone"
+      },
+      "group1_doc2": {
+        "title": "Web integrated (form post)",
+        "sidebar_label": "Web integrated (form post)"
+      },
+      "group1_doc3": {
+        "title": "Web embedded (with code tabs)",
+        "sidebar_label": "Web embedded (with code tabs)"
+      },
+      "group2_doc1": {
+        "title": "POS standalone (with table)",
+        "sidebar_label": "POS standalone (with table)"
+      },
+      "group2_doc2": {
+        "title": "POS integrated (with svg diagram)",
+        "sidebar_label": "POS integrated (with svg diagram)"
       },
       "overview": {
         "title": "Overview",
@@ -54,11 +38,8 @@
       "Documentation": "Documentation"
     },
     "categories": {
-      "Web": "Web",
-      "POS": "POS",
-      "SFTP": "SFTP",
-      "Postback": "Postback",
-      "IVR/phone": "IVR/phone"
+      "Group1": "Group1",
+      "Group2": "Group2"
     }
   },
   "pages-strings": {

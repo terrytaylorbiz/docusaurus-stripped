@@ -1,12 +1,7 @@
 {
   "docs": {
-    "Web": ["a1-web-standalone", "a2-web-integrated-formpost", "a3-web-embedded"],
-    "POS": ["a4-pos-standalone", "a5-pos-integrated"],
-    "SFTP": ["a6-sftp"],
-
-"Postback": ["a7-postback"],
-    "IVR/phone": ["a8-ivr", "a9-phone"]
-    
+    "Group1": ["group1_doc1", "group1_doc2", "group1_doc3"],
+    "Group2": ["group2_doc1", "group2_doc2"]    
 
   }
 }
