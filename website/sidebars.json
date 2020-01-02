@@ -1,0 +1,13 @@
+{
+  "docs": {
+    "Web": ["a1-web-standalone", "a2-web-integrated-formpost", "a3-web-embedded"],
+    "POS": ["a4-pos-standalone", "a5-pos-integrated"],
+    "SFTP": ["a6-sftp"],
+
+"Postback": ["a7-postback"],
+    "IVR/phone": ["a8-ivr", "a9-phone"]
+    
+
+  }
+}
+
