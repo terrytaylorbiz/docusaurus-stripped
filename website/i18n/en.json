@@ -10,24 +10,24 @@
         "sidebar_label": "Contact us"
       },
       "group1_doc1": {
-        "title": "Web standalone",
-        "sidebar_label": "Web standalone"
+        "title": "Text",
+        "sidebar_label": "Text"
       },
       "group1_doc2": {
-        "title": "Web integrated (form post)",
-        "sidebar_label": "Web integrated (form post)"
+        "title": "PNG file",
+        "sidebar_label": "PNG file"
       },
       "group1_doc3": {
-        "title": "Web embedded (with code tabs)",
-        "sidebar_label": "Web embedded (with code tabs)"
+        "title": "Code tabs",
+        "sidebar_label": "Code tabs"
       },
       "group2_doc1": {
-        "title": "POS standalone (with table)",
-        "sidebar_label": "POS standalone (with table)"
+        "title": "Table",
+        "sidebar_label": "table"
       },
       "group2_doc2": {
-        "title": "POS integrated (with svg diagram)",
-        "sidebar_label": "POS integrated (with svg diagram)"
+        "title": "Svg diagram",
+        "sidebar_label": "Svg diagram"
       },
       "overview": {
         "title": "Overview",

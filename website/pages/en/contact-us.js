@@ -46,9 +46,9 @@ class ContactUs extends React.Component {
               <h2>Contact Us</h2>
             </header>
             <p>For more information and to get involved with VitalChek, please contact:</p>
-            <p>Jason Tomlinson<br/>
+            <p>Mr.John Doe<br/>
                Director<br/>
-               xxxx@vitalcheck.com</p>
+               xxxx@tttt.com</p>
           </div>
         </Container>
       </div>

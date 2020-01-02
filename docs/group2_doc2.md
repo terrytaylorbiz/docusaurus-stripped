@@ -1,6 +1,6 @@
 ---
-title: POS integrated (with svg diagram)
-sidebar_label: POS integrated (with svg diagram)
+title: Svg diagram
+sidebar_label: Svg diagram
 ---
 
 

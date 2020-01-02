@@ -1,6 +1,6 @@
 ---
-title: Web embedded (with code tabs)
-sidebar_label: Web embedded (with code tabs)
+title: Code tabs
+sidebar_label: Code tabs
 ---
 
 <!--DOCUSAURUS_CODE_TABS-->

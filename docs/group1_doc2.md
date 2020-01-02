@@ -1,6 +1,8 @@
 ---
-title: Web integrated (form post)
-sidebar_label: Web integrated (form post)
+title: PNG file
+sidebar_label: PNG file
 ---
 
-xxxxxxxxxxxxxxxxx
+this is png file
+
+<img src="/docs/assets/test1.png" width="100%">
